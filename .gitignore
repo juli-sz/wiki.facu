@@ -11,4 +11,9 @@
 # Carpetas y archivos temporales de Drive
 .drive/
 .drivedownload/
-4to/Administración de Sistemas de Información/DRIVE/AdmSI/AdmSI - Apunte de Clases.gdoc
+
+# Añade esto a tu .gitignore para Obsidian
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/graph.json
+.obsidian/plugins/
