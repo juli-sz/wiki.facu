@@ -1,0 +1,10 @@
+# Exclusión específica de archivos de Google Drive
+*.gdoc       # Archivos de documento de Google (enlaces)
+*.gsheet     # Archivos de hoja de cálculo de Google
+*.gslides    # Archivos de presentación de Google
+*.gdraw      # Archivos de dibujo de Google
+*.gform      # Archivos de formulario de Google
+
+# Carpetas y archivos temporales de Drive
+.drive/
+.drivedownload/
