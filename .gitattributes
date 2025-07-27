@@ -1,4 +1,0 @@
-# Agrega al archivo .gitattributes en tu repositorio:
-*.json text eol=lf
-*.md text eol=lf
-*.txt text eol=lf
