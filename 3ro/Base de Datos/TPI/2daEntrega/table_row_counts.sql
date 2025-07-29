@@ -1,0 +1,24 @@
+SELECT "transportadoras" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`transportadoras` UNION 
+SELECT "transfieren" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`transfieren` UNION 
+SELECT "transferencias" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`transferencias` UNION 
+SELECT "stockean" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`stockean` UNION 
+SELECT "prestan" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`prestan` UNION 
+SELECT "poseen" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`poseen` UNION 
+SELECT "monodrogas" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`monodrogas` UNION 
+SELECT "medicamentos" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`medicamentos` UNION 
+SELECT "laboratorios" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`laboratorios` UNION 
+SELECT "ingresos" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`ingresos` UNION 
+SELECT "ingresan" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`ingresan` UNION 
+SELECT "farmacias" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`farmacias` UNION 
+SELECT "farmaceuticos" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`farmaceuticos` UNION 
+SELECT "estadostransferencias" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`estadostransferencias` UNION 
+SELECT "estadosingresos" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`estadosingresos` UNION 
+SELECT "empleados" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`empleados` UNION 
+SELECT "diagnosticos" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`diagnosticos` UNION 
+SELECT "contienen" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`contienen` UNION 
+SELECT "compuestospor" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`compuestospor` UNION 
+SELECT "comprobantes" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`comprobantes` UNION 
+SELECT "ciudades" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`ciudades` UNION 
+SELECT "alcanzan" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`alcanzan` UNION 
+SELECT "afiliados" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`afiliados` UNION 
+SELECT "accionesterapeuticas" AS table_name, COUNT(*) AS exact_row_count FROM `farmaciasdb`.`accionesterapeuticas`
