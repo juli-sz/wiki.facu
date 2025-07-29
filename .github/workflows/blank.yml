@@ -13,29 +13,59 @@ on:
         description: 'Razón del despliegue manual'
         required: false
         default: 'Actualización manual'
+
+permissions:
+  contents: read  # Permisos necesarios para GitHub Pages
+  pages: write
+  id-token: write
+
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Necesario para el historial completo
-
-      - name: Setup Node
-        uses: actions/setup-node@v3
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
         with:
-          node-version: '22.x'
+          node-version: 22
 
-      - name: Install Quartz
-        run: npm install -g https://github.com/jackyzha0/quartz.git
+      - name: Instalar dependencias
+        run: rm -f package-lock.json && npm i
 
-      - name: Build site
-        run: quartz build
+      # Clonar el repositorio
+      - name: Clonar repositorio de wikifacu
+        run: git clone https://github.com/juli-sz/wiki.facu.git /home/runner/work/wiki.facu/content
 
+      # mover elcontenido del directorio ubuntu_server a wiki para que enlace solo el directorio wiki
+      # - name: Mover contenido de ubuntu_server a wiki
+        # run: mv /home/runner/work/quitex-wiki/content/ubuntu_server/ /home/runner/work/quitex-wiki/content/wiki/.
+
+      - name: Set Modified Date of Every File to Last Commit Time
+        run: cd /home/runner/work/wiki.facu/content && git ls-files -z | xargs -0 -I {} git log -1 --date=format:%Y%m%d%H%M.%S --format='touch -t %ad "{}"' {} | bash
+        # esto es para que Quartz pueda detectar los cambios en los archivos de la wiki
+
+      # Crear el symlink para Quartz (desde content/wiki)
+        # el contenido de la wiki es el directorio de wiki y el de ubuntu_server
+      - name: Creando symlink para Quartz
+        run: |
+          rm -rf content
+          ln -s /home/runner/work/quitex-wiki/content content
+
+      - name: Generando el sitio web con Quartz
+        run: npx quartz build
+
+      - name: Subir el sitio web a GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
+        id: deployment
+        uses: actions/deploy-pages@v4
