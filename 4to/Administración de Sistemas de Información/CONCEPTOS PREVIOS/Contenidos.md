@@ -1,0 +1,15 @@
+- [ ] El proceso de administrar. 
+	- [ ] [Video 1 - EL PROCESO ADMINISTRATIVO (el proceso de administrar)]( https://youtu.be/PcuLdqG8QxE )
+- [ ] Planificación. Conceptos. Niveles de planificación. Planificación estratégica. Concepto. Etapas. 
+	- [ ] [**Video 2.1 - Concepto de planificar.**](https://youtu.be/yetmjkn-A-c)https://youtu.be/b7vowcJP1ZM 
+	- [ ] [**Video 2.2 -  Niveles de planificación:  planificación estratégica/táctica / operativa.**](https://youtu.be/5awMRn1rTUk) 
+	- [ ] Material de lectura de planificacion estrategica
+	- [ ] [**3.1. Etapas - etapa filosófica**](https://youtu.be/De7tlIwzuOw)
+	- [ ] [**3.2 Etapa analítica**](https://youtu.be/oUu50BCTcA0)
+	- [ ] [**3.3 Etapa operativa.**](https://youtu.be/Sjq25J0E-mc)
+- [ ] Organización. Concepto. Tipos de departamentalización.
+	- [ ] [**Video 4.1 - El proceso de organizar.**](https://youtu.be/tU7GYpKp1h0)
+	- [ ] [**Video 4.2 - Tipos de departamentalización.**](https://youtu.be/xvqq25kQodU)
+- [ ] Centralización/Descentralización. Desconcentración.
+	- [ ] [**Video 5.1 - Conceptos. Ventajas.Desventajas.**](https://youtu.be/QCNDimuHOXM)
+	- [ ] [**Video 5.2 - Centralización - Descentralización - Desconcentración.**](https://youtu.be/FJtmFfzfg1c)

@@ -1,0 +1,2 @@
+- [ ] **La ARH como proceso**. Los objetivos de la ARH. Políticas de recursos humanos. La responsabilidad del gerente de SI/TI sobre los recursos humanos.
+- [ ] **El subsistema de seguimiento de recursos humanos**. El proceso de control. Evaluación del desempeño humano. Auditoría de Recursos Humanos.

@@ -1,0 +1,4 @@
+- [ ] CHIAVENATO, Idalberto. “**Administración de Recursos Humanos**”. Editorial Mc Graw Hill. 5ªedición. Colombia. [Parte 1: Capítulo 1 (págs. 7 - 54)]
+- [ ] ANDREU, Rafael, RICART, Joan y VALOR Josep. “**Estrategia y Sistemas de Información**”. Editorial McGraw Hill. 2ª edición. 1996. España. [Cap. 1; Parte I: Cap. 2 y 4 (págs. 11-23; 39 y 40); Parte II: Cap. 5 y 6 (págs. 41-76)].
+- [ ] EDWARDS, Chris; WARD, John y BYTHEWAY, Andy – “**Fundamentos de los sistemas de** **información**” – Editorial PRENTICE HALL – 2ª edición. 1998. España.
+- [ ] ROBSON, Wendy. “**Planteo de Estrategias Efectivas de Sistemas de Información II**”- Tomo 3, Cap. 7: _**Valor de la información e inversión en IS**_. Colección Management Estratégico de Sistemas de Información. MP Ediciones. 2ª edición. 1999. Argentina.

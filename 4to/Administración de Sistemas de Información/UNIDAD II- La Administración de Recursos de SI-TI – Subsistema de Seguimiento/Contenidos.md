@@ -1,0 +1,4 @@
+- [ ] **La ARH como proceso**. Los objetivos de la ARH. Políticas de recursos humanos. La responsabilidad del gerente de SI/TI sobre los recursos humanos.
+- [ ] **El subsistema de seguimiento de recursos humanos**. El proceso de control. Evaluación del desempeño humano. Auditoría de Recursos Humanos.
+- [ ] **Seguimiento de Sw y Hw**. El proceso de monitorización de SW y HW. Evaluación del Rendimiento de un sistema informático. La evaluación de las prestaciones. Herramientas.
+- [ ] [**Laboratorio asociado**](https://frre.cvg.utn.edu.ar/course/view.php?id=269#section-16 "Ir a LAB.1"): Introducción al Benchmarking. Aplicaciones de benchmarking sencillas. Herramientas abiertas de Benchmarking. Monitoreo de redes. Introducción al análisis de performance de redes. Investigación sobre otras herramientas de benchmarking y monitoreo asignadas por la cátedra sobre plataformas Linux y Windows.

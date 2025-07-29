@@ -1,0 +1,6 @@
+- [ ] El enfoque de TAVISTOCK. Los recursos organizacionales. La racionalidad de las organizaciones. 
+- [ ] Los sistemas de información en la empresa. El SI en el contexto de la cadena de valor. El rol de las tecnologías de la información. 
+- [ ] Valor de la Información e inversión en IS. Costos de los IS. Beneficios de los IS.
+- [ ] Planificación de los SI/TI a partir de la estrategia del negocio. Esquema general del procedimiento de alineación de las estrategias de SI/TI con las estrategias organizacionales.
+- [ ] Análisis de la cartera de aplicaciones.
+- [ ] Las estrategias genéricas de gestión de SI/TI.

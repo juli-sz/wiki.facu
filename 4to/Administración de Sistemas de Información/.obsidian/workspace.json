@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "6fbacbdb1c2378de",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eea66a3e7152bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "588425b4ba8ca18b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNIDAD I- Planificación Estratégica de SI-TI/Triptico 1 Corregido.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Triptico 1 Corregido"
+            }
+          },
+          {
+            "id": "b0ee10561d2fb1e5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 - SI-TI.docx.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "U1 - SI-TI.docx"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "424fdd2c6d91a6a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a788c6766f216e62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d25c25be7d38fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3174591be435070b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1a46acaa323909c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8a30ce8167b7761",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65e03666e2755d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc1fe47f304597f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 - SI-TI.docx.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de U1 - SI-TI.docx"
+            }
+          },
+          {
+            "id": "34a8b77a254570a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 - SI-TI.docx.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de U1 - SI-TI.docx"
+            }
+          },
+          {
+            "id": "37d5f4fd587685c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6745f0c4a94efbf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 - SI-TI.docx.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de U1 - SI-TI.docx"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b0ee10561d2fb1e5",
+  "lastOpenFiles": [
+    "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/HJKSHDKFS.md",
+    "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 EDWARDS, Chris, Cap 4 5 6.docx.pdf",
+    "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 Chiavenato - Las organizaciones.docx.pdf",
+    "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 - SI-TI.docx.pdf",
+    "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 Management de recursos de IS.docx.pdf",
+    "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES/U1 Valor de la información e inversión en SI.docx.pdf",
+    "UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Cuestionario N° 9_ Seguridad y Auditoría de Sistemas de Información.md",
+    "UNIDAD I- Planificación Estratégica de SI-TI/Enfoque Tavistock.md",
+    "UNIDAD I- Planificación Estratégica de SI-TI/APUNTES",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/Cuestionario N° 4_ Subsistema de Seguimiento de Recursos .pdf",
+    "UNIDAD I- Planificación Estratégica de SI-TI/Cuestionario Unidad temática VI_ Planificación estratégica de los SI_TI.pdf",
+    "CONCEPTOS PREVIOS/2024-08-07 20-07-00.mkv",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/Clase 21_08 PUESTA EN COMUN DE las 4 FASES DE PLANIFICACION ESTRATEGICA SI_TI.pdf",
+    "image1.md",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/RESUELTO - CUESTIONARIO DE UNIDAD.md",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/Bibliografia.md",
+    "UNIDAD I- Planificación Estratégica de SI-TI/Contenidos.md",
+    "UNIDAD I- Planificación Estratégica de SI-TI/Bibliografia.md",
+    "CONCEPTOS PREVIOS/Contenidos.md",
+    "UNIDAD III- Seguridad y Auditoría de Sistemas de Información/AdmSI-CUESTIONARIOS DE ESTUDIO - SEGURIDAD Y AUDITORIA DE SI-TI.md",
+    "UNIDAD III- Seguridad y Auditoría de Sistemas de Información/U.III.2) Auditoría de SI/Contenidos y Bibliografia.md",
+    "UNIDAD III- Seguridad y Auditoría de Sistemas de Información/U.III.2) Auditoría de SI/Videos introductorios.md",
+    "UNIDAD III- Seguridad y Auditoría de Sistemas de Información/U.III.2) Auditoría de SI/Auditoria-Pgma de revision.jpeg",
+    "UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Contenidos.md",
+    "UNIDAD III- Seguridad y Auditoría de Sistemas de Información/U.III.1) Seguridad de SI/Contenidos y Bibliografia.md",
+    "UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Bibliografia.md",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/U.II.2) Seguimiento de Sw y Hw/LABORATORIO 1- Benchmarking y Monitoreo de SI/Guias.md",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/U.II.2) Seguimiento de Sw y Hw/LABORATORIO 1- Benchmarking y Monitoreo de SI/Contenidos.md",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/U.II.1) ARH y Seguimiento de RH/Contenidos.md",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/U.II.2) Seguimiento de Sw y Hw/Contenidos.md",
+    "UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/Contenidos.md",
+    "CASO AGUNSA/Videos.md",
+    "Sin título 3.md",
+    "UNIDAD I- Planificación Estratégica de SI-TI/[ADM_SI 2025] TRIPTICO GUÍA UNIDAD 1 - entrega final.jpg",
+    "UNIDAD I- Planificación Estratégica de SI-TI/[ADM_SI 2025] TRIPTICO GUÍA UNIDAD 1.jpg",
+    "UNIDAD I- Planificación Estratégica de SI-TI/Esquema Gral Alineamiento Estrategico SITI.png",
+    "CONCEPTOS PREVIOS/El proceso de administrar..md",
+    "CONCEPTOS PREVIOS/Sin título 2.md",
+    "CONCEPTOS PREVIOS/Sin título 3.md"
+  ]
+}

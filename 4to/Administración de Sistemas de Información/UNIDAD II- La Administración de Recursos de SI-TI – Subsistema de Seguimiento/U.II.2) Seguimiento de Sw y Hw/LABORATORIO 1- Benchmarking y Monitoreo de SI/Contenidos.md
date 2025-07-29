@@ -1,0 +1,3 @@
+- [ ] Introducción al Benchmarking de Sistemas Informáticos. Aplicaciones de benchmarking sencillas. Herramientas abiertas de Benchmarking.
+- [ ] Monitoreo de SI.
+- [ ] Introducción al análisis de performance de redes.

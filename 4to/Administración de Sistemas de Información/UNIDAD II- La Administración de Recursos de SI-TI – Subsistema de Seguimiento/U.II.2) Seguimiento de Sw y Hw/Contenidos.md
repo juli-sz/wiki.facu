@@ -1,0 +1,3 @@
+- [ ] El proceso de monitorización de SW y HW.
+- [ ] Evaluación del Rendimiento de un sistema informático.
+- [ ] La evaluación de las prestaciones. Herramientas.
