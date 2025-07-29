@@ -1,0 +1,19 @@
+.vscode/
+.history/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.tmp
+*.log
+*.bak
+*.swp
+*.DS_Store
+*.lnk
+*.gsheet
+*.gdoc
+*.gslides
+*.gform
+*.gdraw
+*.mp4
+Docs Originales Convertidos

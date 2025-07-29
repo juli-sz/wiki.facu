@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "80fd5f255e6987aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3e283f815c9775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06e1ba8d6fe94a6f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99d4bce33f99cc49",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6b4146dd378346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f18415eb34e8bd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2c2ddfbfd7c14a75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "44eb7a60ec1db33e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "618381a86c5e2365",
+    "type": "split",
+    "children": [
+      {
+        "id": "478bee7a6eaf9021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc1d93a06724db86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4to/Administración de Sistemas de Información/UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Bibliografia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bibliografia"
+            }
+          },
+          {
+            "id": "eb742503bdef9a77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4to/Administración de Sistemas de Información/UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Bibliografia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bibliografia"
+            }
+          },
+          {
+            "id": "deb77d63bf6dd7c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dac5bc1e9b74265c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4to/Administración de Sistemas de Información/UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Bibliografia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bibliografia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6f18415eb34e8bd7",
+  "lastOpenFiles": [
+    "facu/README.md",
+    "facu",
+    "Docs Originales Convertidos/Unidad 2.gdoc",
+    "Docs Originales Convertidos/guia de lectura.gdoc",
+    "1ro/Sistemas y Procesos de Negocio/Sistemas y Procesos de Negocio/Unidad 2/Unidad 2.docx",
+    "Docs Originales Convertidos/Unidad 1.gdoc",
+    "Docs Originales Convertidos/GuiaTPCiclo2025 - Unidad 3.gdoc",
+    "Docs Originales Convertidos/Escenario - ML.gdoc",
+    "Docs Originales Convertidos/Escenario arreglado - ML.gdoc",
+    "Docs Originales Convertidos/Sistemas Operativos.gdoc",
+    "Docs Originales Convertidos/Rejunte Revisiones SO (1).gdoc",
+    "1ro/Logica y Estructuras Discretas/unidad 4 grafos/Imagen de WhatsApp 2024-06-06 a las 11.37.17_72befc80.jpg",
+    "1ro/Logica y Estructuras Discretas/unidad 1, 2 y 3/logica proposicional/Tarea 3.png",
+    "1ro/Logica y Estructuras Discretas/unidad 1, 2 y 3/Imagen de WhatsApp 2024-05-06 a las 10.23.53_8d730c35.jpg",
+    "1ro/Logica y Estructuras Discretas/unidad 1, 2 y 3/Imagen de WhatsApp 2024-05-06 a las 09.21.00_038dfe1a.jpg",
+    "4to/Ingenieria y Calidad de Software/Assets/Pasted image 20250711191121.png",
+    "4to/Ingenieria y Calidad de Software/Sin título.canvas",
+    "4to/Ingenieria y Calidad de Software/Assets/Pasted image 20250711192507.png",
+    "4to/Ingenieria y Calidad de Software/Unidad 1 -  Ingenieria de Software/3. Ciclo de vida.md",
+    "4to/Ingenieria y Calidad de Software/Unidad 1 -  Ingenieria de Software/2. Proceso de Software.md",
+    "4to/Ingenieria y Calidad de Software/Unidad 1 -  Ingenieria de Software/1. Ingenieria de Software.md",
+    "4to/Administración de Sistemas de Información/UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Bibliografia.md",
+    "node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
+    "node_modules/hash.js/README.md",
+    "node_modules/safe-buffer/README.md",
+    "node_modules/core-util-is/README.md",
+    "node_modules/@types/node/README.md",
+    "node_modules/process-nextick-args/readme.md",
+    "node_modules/util-deprecate/History.md",
+    "node_modules/isarray/README.md",
+    "node_modules/process-nextick-args/license.md",
+    "node_modules/util-deprecate/README.md",
+    "4to/Administración de Sistemas de Información/UNIDAD III- Seguridad y Auditoría de Sistemas de Información/AdmSI-CUESTIONARIOS DE ESTUDIO - SEGURIDAD Y AUDITORIA DE SI-TI.md",
+    "4to/Administración de Sistemas de Información/UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Cuestionario N° 9_ Seguridad y Auditoría de Sistemas de Información.md",
+    "4to/Administración de Sistemas de Información/UNIDAD III- Seguridad y Auditoría de Sistemas de Información/Contenidos.md",
+    "4to/Administración de Sistemas de Información/UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/Bibliografia.md",
+    "4to/Administración de Sistemas de Información/UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/RESUELTO - CUESTIONARIO DE UNIDAD.md",
+    "4to/Administración de Sistemas de Información/UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/Contenidos.md",
+    "4to/Administración de Sistemas de Información/UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/U.II.2) Seguimiento de Sw y Hw/Contenidos.md",
+    "4to/Administración de Sistemas de Información/UNIDAD II- La Administración de Recursos de SI-TI – Subsistema de Seguimiento/U.II.1) ARH y Seguimiento de RH/Contenidos.md",
+    "4to/Administración de Sistemas de Información/UNIDAD I- Planificación Estratégica de SI-TI/Esquema Gral Alineamiento Estrategico SITI.png",
+    "4to/Administración de Sistemas de Información/UNIDAD I- Planificación Estratégica de SI-TI/[ADM_SI 2025] TRIPTICO GUÍA UNIDAD 1 - entrega final.jpg",
+    "4to/Administración de Sistemas de Información/UNIDAD I- Planificación Estratégica de SI-TI/[ADM_SI 2025] TRIPTICO GUÍA UNIDAD 1.jpg",
+    "4to/Administración de Sistemas de Información/CONCEPTOS PREVIOS/Contenidos.md",
+    "4to/Administración de Sistemas de Información/CASO AGUNSA/Videos.md"
+  ]
+}
